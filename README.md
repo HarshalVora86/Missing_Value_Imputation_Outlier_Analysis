@@ -18,6 +18,10 @@
 
 This project applies data preprocessing techniques to a patient health records dataset in order to handle missing values and treat outliers. Multiple imputation and outlier-treatment methods are compared, and a final clean dataset is produced that is suitable for further analysis or machine learning.
 
+## 🎥 Project Overview Video
+
+A walkthrough of this project is available here: https://drive.google.com/file/d/1UacevAK2wzFMB3eoPs2-5SIUbioWN519/view?usp=sharing
+
 ## 📊 Dataset Description
 
 The dataset contains patient health records with the following columns:
